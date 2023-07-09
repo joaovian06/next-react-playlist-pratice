@@ -4,9 +4,7 @@ function About() {
   return (
     <div>
       <h1>About</h1>
-      <Link>
-        <a href="/">Acessar página Home</a>
-      </Link>
+      <Link href="/">Acessar página Home</Link>
     </div>
   );
 }

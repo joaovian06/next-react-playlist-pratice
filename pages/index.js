@@ -4,9 +4,7 @@ function Home() {
   return (
     <div>
       <h1>Home</h1>
-      <Link>
-        <a href="sobre">Acessar página Sobre</a>
-      </Link>
+      <Link href="/sobre">Acessar página Sobre</Link>
     </div>
   );
 }
